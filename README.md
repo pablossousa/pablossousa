@@ -1,4 +1,4 @@
-### Hi there! I'm Pablo and computer engineering student!
+### Hi there! I'm Pablo and i'm computer engineering student!
 
 
 <div align="center">
