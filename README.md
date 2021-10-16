@@ -2,17 +2,21 @@
 
 <h2 align="left"> Hi there! I'm Pablo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-<h3>💻 Front-End Developer</h3>
+<h3>💻 Developer</h3>
 
 - <p>✈️ 18y, studying computer engineering</p>
-- <p>👨‍💻 Skills: <strong>HTML5, CSS3, Javascript, ES6, OO, PHP, Bootstrap, SQL, C and Java</strong><br></p>
+- <p>👨‍💻 Skills: <strong>HTML5, CSS3, Bootstrap, JavaScript, ES6, Ajax, OO, PHP, SQL, C and Java</strong><br></p>
 
 <h3>📱 Social </h3>
 
 <div>
+ 
+<a href="mailto:pablossilva.005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pabloss_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/pablo-silva-734b22202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://open.spotify.com/playlist/5EO4tw9rVDN2DhsxIPC53h?si=_Ltu-oB9S4KMMSSSz_yZHw&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/gilberto-alves-377414199/)](https://www.linkedin.com/in/pablo-silva-734b22202/)
-[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)](https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)
+
 
 </div>
 
