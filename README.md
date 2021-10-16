@@ -1,4 +1,21 @@
-### Hi there! I'm Pablo and i'm computer engineering student!
+<img align="right" src="Code typing-bro.png" max-width="400px" width="400px" align="right">
+
+<h2 align="left"> Hi there! I'm Pablo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+
+<h3>💻 Front-End Developer</h3>
+
+- <p>✈️ 18y, studying computer engineering</p>
+- <p>👨‍💻 Skills: <strong>HTML5, CSS3, Javascript, ES6, OO, PHP, Bootstrap, SQL, C and Java</strong><br></p>
+
+<h3>📱 Social </h3>
+
+<div>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/gilberto-alves-377414199/)](https://www.linkedin.com/in/pablo-silva-734b22202/)
+[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)](https://app.rocketseat.com.br/me/gilberto-alves-de-sousa-junior-1571157922)
+[![https://portfolio-gsj.netlify.app/ Badge](https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=https://portfolio-gsj.vercel.app/)](https://portfolio-gsj.vercel.app/)
+
+</div>
 
 
 <div align="center">
