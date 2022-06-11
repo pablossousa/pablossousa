@@ -1,7 +1,5 @@
 <img align="right" src="Code typing-bro.png" max-width="400px" width="400px" align="right">
 
-<h2 align="left"> Hi there! I'm Pablo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
-
 <h3>💻 Developer</h3>
 
 - <p>✈️ 18y, studying computer engineering</p>
