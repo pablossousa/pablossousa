@@ -2,7 +2,7 @@
 
 <h3>💻 Developer</h3>
 
-- <p>✈️ 18y, studying computer engineering</p>
+- <p>✈️ 19y, studying computer engineering</p>
 - <p>👨‍💻 Skills: <strong>HTML5, CSS3, Bootstrap, JavaScript, ES6, Ajax, OO, PHP, SQL, C and Java</strong><br></p>
 
 <h3>📱 Social </h3>
